@@ -49,5 +49,3 @@ Raw Data (CSV) → Bronze (raw ingestion) → Silver (cleaned, validated) → Go
 
 [Rohit Khosla] [https://www.linkedin.com/in/rohit-khosla/]
 
-[Your Name] | [LinkedIn URL]
-
